@@ -78,8 +78,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-Debug/
-Release/
+x64/
 node_modules/
 .vs/
 *.sdf
