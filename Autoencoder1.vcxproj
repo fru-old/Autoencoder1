@@ -141,6 +141,7 @@
     <ClInclude Include="lib\catch.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="library.cpp" />
     <ClCompile Include="1-perceptron\perceptron.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>

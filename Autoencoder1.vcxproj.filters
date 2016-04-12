@@ -26,5 +26,8 @@
     <ClCompile Include="1-perceptron\perceptron.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="library.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

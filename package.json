@@ -1,0 +1,18 @@
+{
+  "name": "autoencoder1",
+  "version": "1.0.0",
+  "description": "Autoencoder Mark 1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fru/Autoencoder1.git"
+  },
+  "author": "Florian Rüberg",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fru/Autoencoder1/issues"
+  },
+  "homepage": "https://github.com/fru/Autoencoder1#readme",
+  "dependencies": {
+    "ffi": "^2.0.0"
+  }
+}

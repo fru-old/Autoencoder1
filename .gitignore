@@ -80,3 +80,6 @@ $RECYCLE.BIN/
 
 Debug/
 Release/
+node_modules/
+.vs/
+*.sdf

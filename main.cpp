@@ -1,6 +1,7 @@
+#include <iostream>
+
 #define CATCH_CONFIG_RUNNER
 #include "./lib/catch.hpp"
-#include <iostream>
 
 int main(int argc, const char* argv[])
 {
