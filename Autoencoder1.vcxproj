@@ -194,6 +194,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="lib\inject.hpp" />
     <ClInclude Include="lib\catch.hpp" />
   </ItemGroup>
   <ItemGroup>

@@ -18,6 +18,9 @@
     <ClInclude Include="lib\catch.hpp">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="lib\inject.hpp">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
